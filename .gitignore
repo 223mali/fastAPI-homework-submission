@@ -1,0 +1,3 @@
+**/__pycache__/
+api/sql_app.db
+api/sql_app/uploads/*
